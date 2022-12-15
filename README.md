@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cedricdomingo&label=Profile%20views&color=0e75b6&style=flat" alt="cedricdomingo" /> </p>
 
-- 🌱 I’m currently learning **about Data Mining and Warehousing (Python, Tableau)**
+- 🌱 I’m currently learning about **Data Mining and Warehousing (Python, Tableau)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cedricdomingo](https://github.com/cedricdomingo)
 
