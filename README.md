@@ -1,7 +1,9 @@
-<h1 align="center">Hello, World! I'm Allen Cedric Domingo</h1>
-<h3 align="center">Software Engineer, Designer, Data Science Enthusiast</h3>
+<h1 align="center">github.com/cedricdomingo</h1>
 
-![Group 1](https://user-images.githubusercontent.com/81552207/208015457-3f1f3198-8b52-4902-b70e-de4a717c7004.png)
+![Group 22](https://user-images.githubusercontent.com/81552207/208017111-6453b2d1-05af-44bc-bcb6-fae085b222c4.png)
+
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cedricdomingo&label=Profile%20views&color=0e75b6&style=flat" alt="cedricdomingo" /> </p>
