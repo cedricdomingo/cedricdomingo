@@ -1,5 +1,6 @@
 <h1 align="center">Hello, World! I'm Allen Cedric Domingo</h1>
 <h3 align="center">Software Engineer, Designer, Data Science Enthusiast</h3>
+![Slice 1 (3)](https://user-images.githubusercontent.com/81552207/208015109-aea15b08-59fc-457e-84a7-559e55042b00.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cedricdomingo&label=Profile%20views&color=0e75b6&style=flat" alt="cedricdomingo" /> </p>
 
