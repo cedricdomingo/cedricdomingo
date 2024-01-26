@@ -17,8 +17,9 @@
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/cedricdomingo) page, and on my [portfolio](https://cedricdomingo.vercel.app).
 - 📫 Let's connect! Reach me at [allencedricdomingo@gmail.com](mailto:allencedricdomingo@gmail.com)
 
+
+<h3>Connect with me:</h3>
 <p align="center">
-<h3 >Connect with me:</h3>
 <a href="https://linkedin.com/in/allencedricdomingo" target="blank">
  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allencedricdomingo" height="30" width="40" /></a>
 </p>
