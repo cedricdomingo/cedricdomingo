@@ -21,4 +21,4 @@
 <a align="center" href="https://linkedin.com/in/allencedricdomingo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allencedricdomingo" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cedricdomingo&show_icons=true&locale=en&layout=compact" alt="cedricdomingo" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cedricdomingo&show_icons=true&locale=en&layout=compact" alt="cedricdomingo" /></p>
