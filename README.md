@@ -13,15 +13,15 @@
   * Best practices and key concepts in **accessibility** and **UI/UX design**
 
 - 📚 I have significant experience working with: **Java, React, JavaScript, CSS** and **HTML**
-- 📄 View my resume [here!](https://cedricdomingo.vercel.app/resume/resume.pdf)
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/cedricdomingo) page, and on my [portfolio](https://cedricdomingo.vercel.app).
-- 📫 Let's connect! Reach me at [allencedricdomingo@gmail.com](mailto:allencedricdomingo@gmail.com)
+- 📫 Let's collaborate! Reach me at [allencedricdomingo@gmail.com](mailto:allencedricdomingo@gmail.com)
+- - 📄 View my resume [here!](https://cedricdomingo.vercel.app/resume/resume.pdf)
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cedricdomingo&show_icons=true&locale=en&layout=compact" alt="cedricdomingo" /></p>
 
 
-<h3>Connect with me:</h3>
+<h3 align="center">Let's Connect!</h3>
 <p align="center">
 <a href="https://linkedin.com/in/allencedricdomingo" target="blank">
  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allencedricdomingo" height="30" width="40" /></a>
 </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cedricdomingo&show_icons=true&locale=en&layout=compact" alt="cedricdomingo" /></p>
