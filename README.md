@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cedricdomingo&label=Profile%20views&color=0e75b6&style=flat" alt="cedricdomingo" /> </p>
 
 <h1 align="center">Hello World 👋, I'm Allen Cedric Domingo.</h1>
-<h4 align="center"> I am a recent **Bachelor of Technology in Information Technology** graduate with a degree specialization in **Mobile and Web Application Development** (MWAD) and a strong passion to craft innovative solutions.</h4>
+<h4 align="center"> I am a recent Bachelor of Technology in Information Technology graduate with a degree specialization in Mobile and Web Application Development (MWAD) and a strong passion to craft innovative solutions.</h4>
 
 - 🌱 I’m currently learning more about:
   * **JavaScript** and **ReactJS**
